@@ -31,4 +31,5 @@ jobs:
         push: true
         tags: |
          peanutsguy/lasp:latest
+         ghcr.io/peanutsguy/lasp:$(date +%s)
          ghcr.io/peanutsguy/lasp:latest
